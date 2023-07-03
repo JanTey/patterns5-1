@@ -1,9 +1,6 @@
 package ru.netology.quamid59.test;
 
 import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Configuration;
-import org.apache.commons.lang3.StringUtils;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -11,11 +8,8 @@ import org.openqa.selenium.Keys;
 import ru.netology.quamid59.data.DataGenerator;
 
 import java.time.Duration;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 
 import static com.codeborne.selenide.Selenide.*;
-import static com.codeborne.selenide.Selenide.$;
 
 public class CardDeliveryOrderTest {
 //    private String generateDate(int addDays, String pattern) {
