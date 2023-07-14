@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 14 19:52:38 MSK 2023","Fri Jul 14 19:52:42 MSK 2023","4113","","ru.netology.quamid59.test.CardDeliveryOrderTest","","ru.netology.quamid59.test.CardDeliveryOrderTest","shouldSuccessfulPlanAndReplanMeeting","Should successful plan and replan meeting",""
