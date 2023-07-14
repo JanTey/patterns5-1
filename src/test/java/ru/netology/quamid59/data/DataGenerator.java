@@ -1,5 +1,6 @@
 package ru.netology.quamid59.data;
 
+
 import com.github.javafaker.Faker;
 import lombok.Value;
 
